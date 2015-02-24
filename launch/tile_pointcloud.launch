@@ -1,0 +1,14 @@
+<launch>
+
+<arg name="fileTileToFloor" default="/home/parallels/ros_local/catkin_ws/src/tile_setup_tf/data/tileToFloor.csv" />
+<arg name="fileSensorToTile" default="/home/parallels/ros_local/catkin_ws/src/tile_setup_tf/data/sensorToTile.csv" />
+<node pkg="tile_setup_tf" name="tile_setup_tf_node" output="screen" type="tile_setup_tf_node" args="$(arg fileTileToFloor) $(arg fileSensorToTile)" />
+
+
+<arg name="path" default="/home/parallels/ros_local/bags/dalles_avec_nassim/2014-06-19-maxime-and-nassim.bag" />
+<node pkg="rosbag" type="play" name="player" output="screen" args="-r 1 -l -s 10 $(arg path)" />
+
+<node pkg="tile_setup_tf" name="tile_pointcloud_node" output="screen" type="tile_pointcloud_node" args="$(arg fileSensorToTile)" />
+
+<node pkg="rviz" type="rviz" name="rviz" args="-d $(find tile_setup_tf)/data/tile_tf_pc.rviz"/>
+</launch>

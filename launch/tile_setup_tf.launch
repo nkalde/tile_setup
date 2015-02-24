@@ -1,0 +1,9 @@
+<launch>
+
+<arg name="fileTileToFloor" default="/home/parallels/ros_local/catkin_ws/src/tile_setup_tf/data/floorToTile.csv" />
+
+<arg name="fileSensorToTile" default="/home/parallels/ros_local/catkin_ws/src/tile_setup_tf/data/sensorToTile.csv" />
+
+<node pkg="tile_setup_tf" name="tile_setup_tf_node" output="screen" type="tile_setup_tf_node" args="$(arg fileTileToFloor) $(arg fileSensorToTile)" />
+
+</launch>

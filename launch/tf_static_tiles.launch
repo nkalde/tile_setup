@@ -1,0 +1,6 @@
+<launch>
+
+<!-- <include file="$(find tile_setup_tf)/launch/tf_static_tile_sensors.launch" /> -->
+<include file="$(find tile_setup_tf)/launch/tf_static_floor_tiles.launch" />
+
+</launch>

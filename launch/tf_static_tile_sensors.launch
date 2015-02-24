@@ -1,0 +1,418 @@
+<launch>
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_1_1" args="0.578000 0.095000 0 0 0 0 base_tile_1 base_sensor_1_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_1_2" args="0.578000 0.095000 0 0 0 0 base_tile_1 base_sensor_1_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_1_3" args="0.578000 0.095000 0 0 0 0 base_tile_1 base_sensor_1_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_1_4" args="0.578000 0.095000 0 0 0 0 base_tile_1 base_sensor_1_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_2_1" args="0.578000 0.095000 0 0 0 0 base_tile_2 base_sensor_2_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_2_2" args="0.578000 0.095000 0 0 0 0 base_tile_2 base_sensor_2_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_2_3" args="0.578000 0.095000 0 0 0 0 base_tile_2 base_sensor_2_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_2_4" args="0.578000 0.095000 0 0 0 0 base_tile_2 base_sensor_2_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_3_1" args="0.578000 0.095000 0 0 0 0 base_tile_3 base_sensor_3_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_3_2" args="0.578000 0.095000 0 0 0 0 base_tile_3 base_sensor_3_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_3_3" args="0.578000 0.095000 0 0 0 0 base_tile_3 base_sensor_3_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_3_4" args="0.578000 0.095000 0 0 0 0 base_tile_3 base_sensor_3_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_4_1" args="0.578000 0.095000 0 0 0 0 base_tile_4 base_sensor_4_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_4_2" args="0.578000 0.095000 0 0 0 0 base_tile_4 base_sensor_4_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_4_3" args="0.578000 0.095000 0 0 0 0 base_tile_4 base_sensor_4_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_4_4" args="0.578000 0.095000 0 0 0 0 base_tile_4 base_sensor_4_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_5_1" args="0.578000 0.095000 0 0 0 0 base_tile_5 base_sensor_5_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_5_2" args="0.578000 0.095000 0 0 0 0 base_tile_5 base_sensor_5_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_5_3" args="0.578000 0.095000 0 0 0 0 base_tile_5 base_sensor_5_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_5_4" args="0.578000 0.095000 0 0 0 0 base_tile_5 base_sensor_5_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_6_1" args="0.578000 0.095000 0 0 0 0 base_tile_6 base_sensor_6_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_6_2" args="0.578000 0.095000 0 0 0 0 base_tile_6 base_sensor_6_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_6_3" args="0.578000 0.095000 0 0 0 0 base_tile_6 base_sensor_6_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_6_4" args="0.578000 0.095000 0 0 0 0 base_tile_6 base_sensor_6_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_7_1" args="0.578000 0.095000 0 0 0 0 base_tile_7 base_sensor_7_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_7_2" args="0.578000 0.095000 0 0 0 0 base_tile_7 base_sensor_7_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_7_3" args="0.578000 0.095000 0 0 0 0 base_tile_7 base_sensor_7_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_7_4" args="0.578000 0.095000 0 0 0 0 base_tile_7 base_sensor_7_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_8_1" args="0.578000 0.095000 0 0 0 0 base_tile_8 base_sensor_8_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_8_2" args="0.578000 0.095000 0 0 0 0 base_tile_8 base_sensor_8_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_8_3" args="0.578000 0.095000 0 0 0 0 base_tile_8 base_sensor_8_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_8_4" args="0.578000 0.095000 0 0 0 0 base_tile_8 base_sensor_8_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_9_1" args="0.578000 0.095000 0 0 0 0 base_tile_9 base_sensor_9_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_9_2" args="0.578000 0.095000 0 0 0 0 base_tile_9 base_sensor_9_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_9_3" args="0.578000 0.095000 0 0 0 0 base_tile_9 base_sensor_9_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_9_4" args="0.578000 0.095000 0 0 0 0 base_tile_9 base_sensor_9_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_10_1" args="0.578000 0.095000 0 0 0 0 base_tile_10 base_sensor_10_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_10_2" args="0.578000 0.095000 0 0 0 0 base_tile_10 base_sensor_10_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_10_3" args="0.578000 0.095000 0 0 0 0 base_tile_10 base_sensor_10_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_10_4" args="0.578000 0.095000 0 0 0 0 base_tile_10 base_sensor_10_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_11_1" args="0.578000 0.095000 0 0 0 0 base_tile_11 base_sensor_11_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_11_2" args="0.578000 0.095000 0 0 0 0 base_tile_11 base_sensor_11_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_11_3" args="0.578000 0.095000 0 0 0 0 base_tile_11 base_sensor_11_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_11_4" args="0.578000 0.095000 0 0 0 0 base_tile_11 base_sensor_11_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_12_1" args="0.578000 0.022000 0 0 0 0 base_tile_12 base_sensor_12_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_12_2" args="0.578000 0.022000 0 0 0 0 base_tile_12 base_sensor_12_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_12_3" args="0.578000 0.022000 0 0 0 0 base_tile_12 base_sensor_12_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_12_4" args="0.578000 0.022000 0 0 0 0 base_tile_12 base_sensor_12_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_13_1" args="0.578000 0.022000 0 0 0 0 base_tile_13 base_sensor_13_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_13_2" args="0.578000 0.022000 0 0 0 0 base_tile_13 base_sensor_13_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_13_3" args="0.578000 0.022000 0 0 0 0 base_tile_13 base_sensor_13_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_13_4" args="0.578000 0.022000 0 0 0 0 base_tile_13 base_sensor_13_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_14_1" args="0.578000 0.022000 0 0 0 0 base_tile_14 base_sensor_14_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_14_2" args="0.578000 0.022000 0 0 0 0 base_tile_14 base_sensor_14_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_14_3" args="0.578000 0.022000 0 0 0 0 base_tile_14 base_sensor_14_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_14_4" args="0.578000 0.022000 0 0 0 0 base_tile_14 base_sensor_14_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_15_1" args="0.578000 0.022000 0 0 0 0 base_tile_15 base_sensor_15_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_15_2" args="0.578000 0.022000 0 0 0 0 base_tile_15 base_sensor_15_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_15_3" args="0.578000 0.022000 0 0 0 0 base_tile_15 base_sensor_15_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_15_4" args="0.578000 0.022000 0 0 0 0 base_tile_15 base_sensor_15_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_16_1" args="0.578000 0.022000 0 0 0 0 base_tile_16 base_sensor_16_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_16_2" args="0.578000 0.022000 0 0 0 0 base_tile_16 base_sensor_16_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_16_3" args="0.578000 0.022000 0 0 0 0 base_tile_16 base_sensor_16_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_16_4" args="0.578000 0.022000 0 0 0 0 base_tile_16 base_sensor_16_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_17_1" args="0.578000 0.022000 0 0 0 0 base_tile_17 base_sensor_17_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_17_2" args="0.578000 0.022000 0 0 0 0 base_tile_17 base_sensor_17_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_17_3" args="0.578000 0.022000 0 0 0 0 base_tile_17 base_sensor_17_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_17_4" args="0.578000 0.022000 0 0 0 0 base_tile_17 base_sensor_17_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_18_1" args="0.578000 0.022000 0 0 0 0 base_tile_18 base_sensor_18_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_18_2" args="0.578000 0.022000 0 0 0 0 base_tile_18 base_sensor_18_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_18_3" args="0.578000 0.022000 0 0 0 0 base_tile_18 base_sensor_18_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_18_4" args="0.578000 0.022000 0 0 0 0 base_tile_18 base_sensor_18_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_19_1" args="0.578000 0.022000 0 0 0 0 base_tile_19 base_sensor_19_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_19_2" args="0.578000 0.022000 0 0 0 0 base_tile_19 base_sensor_19_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_19_3" args="0.578000 0.022000 0 0 0 0 base_tile_19 base_sensor_19_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_19_4" args="0.578000 0.022000 0 0 0 0 base_tile_19 base_sensor_19_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_20_1" args="0.578000 0.022000 0 0 0 0 base_tile_20 base_sensor_20_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_20_2" args="0.578000 0.022000 0 0 0 0 base_tile_20 base_sensor_20_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_20_3" args="0.578000 0.022000 0 0 0 0 base_tile_20 base_sensor_20_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_20_4" args="0.578000 0.022000 0 0 0 0 base_tile_20 base_sensor_20_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_21_1" args="0.578000 0.022000 0 0 0 0 base_tile_21 base_sensor_21_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_21_2" args="0.578000 0.022000 0 0 0 0 base_tile_21 base_sensor_21_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_21_3" args="0.578000 0.022000 0 0 0 0 base_tile_21 base_sensor_21_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_21_4" args="0.578000 0.022000 0 0 0 0 base_tile_21 base_sensor_21_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_22_1" args="0.578000 0.022000 0 0 0 0 base_tile_22 base_sensor_22_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_22_2" args="0.578000 0.022000 0 0 0 0 base_tile_22 base_sensor_22_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_22_3" args="0.578000 0.022000 0 0 0 0 base_tile_22 base_sensor_22_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_22_4" args="0.578000 0.022000 0 0 0 0 base_tile_22 base_sensor_22_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_23_1" args="0.578000 0.022000 0 0 0 0 base_tile_23 base_sensor_23_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_23_2" args="0.578000 0.022000 0 0 0 0 base_tile_23 base_sensor_23_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_23_3" args="0.578000 0.022000 0 0 0 0 base_tile_23 base_sensor_23_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_23_4" args="0.578000 0.022000 0 0 0 0 base_tile_23 base_sensor_23_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_24_1" args="0.578000 0.022000 0 0 0 0 base_tile_24 base_sensor_24_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_24_2" args="0.578000 0.022000 0 0 0 0 base_tile_24 base_sensor_24_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_24_3" args="0.578000 0.022000 0 0 0 0 base_tile_24 base_sensor_24_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_24_4" args="0.578000 0.022000 0 0 0 0 base_tile_24 base_sensor_24_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_25_1" args="0.578000 0.022000 0 0 0 0 base_tile_25 base_sensor_25_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_25_2" args="0.578000 0.022000 0 0 0 0 base_tile_25 base_sensor_25_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_25_3" args="0.578000 0.022000 0 0 0 0 base_tile_25 base_sensor_25_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_25_4" args="0.578000 0.022000 0 0 0 0 base_tile_25 base_sensor_25_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_26_1" args="0.578000 0.022000 0 0 0 0 base_tile_26 base_sensor_26_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_26_2" args="0.578000 0.022000 0 0 0 0 base_tile_26 base_sensor_26_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_26_3" args="0.578000 0.022000 0 0 0 0 base_tile_26 base_sensor_26_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_26_4" args="0.578000 0.022000 0 0 0 0 base_tile_26 base_sensor_26_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_27_1" args="0.578000 0.022000 0 0 0 0 base_tile_27 base_sensor_27_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_27_2" args="0.578000 0.022000 0 0 0 0 base_tile_27 base_sensor_27_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_27_3" args="0.578000 0.022000 0 0 0 0 base_tile_27 base_sensor_27_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_27_4" args="0.578000 0.022000 0 0 0 0 base_tile_27 base_sensor_27_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_28_1" args="0.578000 0.022000 0 0 0 0 base_tile_28 base_sensor_28_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_28_2" args="0.578000 0.022000 0 0 0 0 base_tile_28 base_sensor_28_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_28_3" args="0.578000 0.022000 0 0 0 0 base_tile_28 base_sensor_28_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_28_4" args="0.578000 0.022000 0 0 0 0 base_tile_28 base_sensor_28_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_29_1" args="0.578000 0.022000 0 0 0 0 base_tile_29 base_sensor_29_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_29_2" args="0.578000 0.022000 0 0 0 0 base_tile_29 base_sensor_29_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_29_3" args="0.578000 0.022000 0 0 0 0 base_tile_29 base_sensor_29_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_29_4" args="0.578000 0.022000 0 0 0 0 base_tile_29 base_sensor_29_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_30_1" args="0.578000 0.022000 0 0 0 0 base_tile_30 base_sensor_30_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_30_2" args="0.578000 0.022000 0 0 0 0 base_tile_30 base_sensor_30_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_30_3" args="0.578000 0.022000 0 0 0 0 base_tile_30 base_sensor_30_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_30_4" args="0.578000 0.022000 0 0 0 0 base_tile_30 base_sensor_30_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_31_1" args="0.578000 0.022000 0 0 0 0 base_tile_31 base_sensor_31_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_31_2" args="0.578000 0.022000 0 0 0 0 base_tile_31 base_sensor_31_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_31_3" args="0.578000 0.022000 0 0 0 0 base_tile_31 base_sensor_31_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_31_4" args="0.578000 0.022000 0 0 0 0 base_tile_31 base_sensor_31_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_32_1" args="0.578000 0.022000 0 0 0 0 base_tile_32 base_sensor_32_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_32_2" args="0.578000 0.022000 0 0 0 0 base_tile_32 base_sensor_32_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_32_3" args="0.578000 0.022000 0 0 0 0 base_tile_32 base_sensor_32_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_32_4" args="0.578000 0.022000 0 0 0 0 base_tile_32 base_sensor_32_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_33_1" args="0.578000 0.022000 0 0 0 0 base_tile_33 base_sensor_33_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_33_2" args="0.578000 0.022000 0 0 0 0 base_tile_33 base_sensor_33_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_33_3" args="0.578000 0.022000 0 0 0 0 base_tile_33 base_sensor_33_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_33_4" args="0.578000 0.022000 0 0 0 0 base_tile_33 base_sensor_33_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_34_1" args="0.578000 0.022000 0 0 0 0 base_tile_34 base_sensor_34_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_34_2" args="0.578000 0.022000 0 0 0 0 base_tile_34 base_sensor_34_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_34_3" args="0.578000 0.022000 0 0 0 0 base_tile_34 base_sensor_34_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_34_4" args="0.578000 0.022000 0 0 0 0 base_tile_34 base_sensor_34_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_35_1" args="0.578000 0.022000 0 0 0 0 base_tile_35 base_sensor_35_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_35_2" args="0.578000 0.022000 0 0 0 0 base_tile_35 base_sensor_35_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_35_3" args="0.578000 0.022000 0 0 0 0 base_tile_35 base_sensor_35_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_35_4" args="0.578000 0.022000 0 0 0 0 base_tile_35 base_sensor_35_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_36_1" args="0.578000 0.022000 0 0 0 0 base_tile_36 base_sensor_36_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_36_2" args="0.578000 0.022000 0 0 0 0 base_tile_36 base_sensor_36_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_36_3" args="0.578000 0.022000 0 0 0 0 base_tile_36 base_sensor_36_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_36_4" args="0.578000 0.022000 0 0 0 0 base_tile_36 base_sensor_36_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_37_1" args="0.578000 0.022000 0 0 0 0 base_tile_37 base_sensor_37_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_37_2" args="0.578000 0.022000 0 0 0 0 base_tile_37 base_sensor_37_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_37_3" args="0.578000 0.022000 0 0 0 0 base_tile_37 base_sensor_37_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_37_4" args="0.578000 0.022000 0 0 0 0 base_tile_37 base_sensor_37_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_38_1" args="0.578000 0.022000 0 0 0 0 base_tile_38 base_sensor_38_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_38_2" args="0.578000 0.022000 0 0 0 0 base_tile_38 base_sensor_38_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_38_3" args="0.578000 0.022000 0 0 0 0 base_tile_38 base_sensor_38_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_38_4" args="0.578000 0.022000 0 0 0 0 base_tile_38 base_sensor_38_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_39_1" args="0.578000 0.022000 0 0 0 0 base_tile_39 base_sensor_39_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_39_2" args="0.578000 0.022000 0 0 0 0 base_tile_39 base_sensor_39_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_39_3" args="0.578000 0.022000 0 0 0 0 base_tile_39 base_sensor_39_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_39_4" args="0.578000 0.022000 0 0 0 0 base_tile_39 base_sensor_39_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_40_1" args="0.578000 0.022000 0 0 0 0 base_tile_40 base_sensor_40_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_40_2" args="0.578000 0.022000 0 0 0 0 base_tile_40 base_sensor_40_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_40_3" args="0.578000 0.022000 0 0 0 0 base_tile_40 base_sensor_40_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_40_4" args="0.578000 0.022000 0 0 0 0 base_tile_40 base_sensor_40_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_41_1" args="0.578000 0.022000 0 0 0 0 base_tile_41 base_sensor_41_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_41_2" args="0.578000 0.022000 0 0 0 0 base_tile_41 base_sensor_41_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_41_3" args="0.578000 0.022000 0 0 0 0 base_tile_41 base_sensor_41_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_41_4" args="0.578000 0.022000 0 0 0 0 base_tile_41 base_sensor_41_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_42_1" args="0.578000 0.022000 0 0 0 0 base_tile_42 base_sensor_42_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_42_2" args="0.578000 0.022000 0 0 0 0 base_tile_42 base_sensor_42_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_42_3" args="0.578000 0.022000 0 0 0 0 base_tile_42 base_sensor_42_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_42_4" args="0.578000 0.022000 0 0 0 0 base_tile_42 base_sensor_42_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_43_1" args="0.578000 0.022000 0 0 0 0 base_tile_43 base_sensor_43_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_43_2" args="0.578000 0.022000 0 0 0 0 base_tile_43 base_sensor_43_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_43_3" args="0.578000 0.022000 0 0 0 0 base_tile_43 base_sensor_43_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_43_4" args="0.578000 0.022000 0 0 0 0 base_tile_43 base_sensor_43_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_44_1" args="0.578000 0.022000 0 0 0 0 base_tile_44 base_sensor_44_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_44_2" args="0.578000 0.022000 0 0 0 0 base_tile_44 base_sensor_44_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_44_3" args="0.578000 0.022000 0 0 0 0 base_tile_44 base_sensor_44_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_44_4" args="0.578000 0.022000 0 0 0 0 base_tile_44 base_sensor_44_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_45_1" args="0.578000 0.022000 0 0 0 0 base_tile_45 base_sensor_45_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_45_2" args="0.578000 0.022000 0 0 0 0 base_tile_45 base_sensor_45_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_45_3" args="0.578000 0.022000 0 0 0 0 base_tile_45 base_sensor_45_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_45_4" args="0.578000 0.022000 0 0 0 0 base_tile_45 base_sensor_45_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_46_1" args="0.578000 0.022000 0 0 0 0 base_tile_46 base_sensor_46_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_46_2" args="0.578000 0.022000 0 0 0 0 base_tile_46 base_sensor_46_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_46_3" args="0.578000 0.022000 0 0 0 0 base_tile_46 base_sensor_46_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_46_4" args="0.578000 0.022000 0 0 0 0 base_tile_46 base_sensor_46_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_47_1" args="0.578000 0.022000 0 0 0 0 base_tile_47 base_sensor_47_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_47_2" args="0.578000 0.022000 0 0 0 0 base_tile_47 base_sensor_47_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_47_3" args="0.578000 0.022000 0 0 0 0 base_tile_47 base_sensor_47_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_47_4" args="0.578000 0.022000 0 0 0 0 base_tile_47 base_sensor_47_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_48_1" args="0.578000 0.022000 0 0 0 0 base_tile_48 base_sensor_48_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_48_2" args="0.578000 0.022000 0 0 0 0 base_tile_48 base_sensor_48_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_48_3" args="0.578000 0.022000 0 0 0 0 base_tile_48 base_sensor_48_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_48_4" args="0.578000 0.022000 0 0 0 0 base_tile_48 base_sensor_48_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_49_1" args="0.578000 0.022000 0 0 0 0 base_tile_49 base_sensor_49_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_49_2" args="0.578000 0.022000 0 0 0 0 base_tile_49 base_sensor_49_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_49_3" args="0.578000 0.022000 0 0 0 0 base_tile_49 base_sensor_49_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_49_4" args="0.578000 0.022000 0 0 0 0 base_tile_49 base_sensor_49_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_50_1" args="0.578000 0.022000 0 0 0 0 base_tile_50 base_sensor_50_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_50_2" args="0.578000 0.022000 0 0 0 0 base_tile_50 base_sensor_50_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_50_3" args="0.578000 0.022000 0 0 0 0 base_tile_50 base_sensor_50_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_50_4" args="0.578000 0.022000 0 0 0 0 base_tile_50 base_sensor_50_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_51_1" args="0.578000 0.022000 0 0 0 0 base_tile_51 base_sensor_51_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_51_2" args="0.578000 0.022000 0 0 0 0 base_tile_51 base_sensor_51_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_51_3" args="0.578000 0.022000 0 0 0 0 base_tile_51 base_sensor_51_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_51_4" args="0.578000 0.022000 0 0 0 0 base_tile_51 base_sensor_51_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_52_1" args="0.578000 0.022000 0 0 0 0 base_tile_52 base_sensor_52_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_52_2" args="0.578000 0.022000 0 0 0 0 base_tile_52 base_sensor_52_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_52_3" args="0.578000 0.022000 0 0 0 0 base_tile_52 base_sensor_52_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_52_4" args="0.578000 0.022000 0 0 0 0 base_tile_52 base_sensor_52_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_53_1" args="0.578000 0.022000 0 0 0 0 base_tile_53 base_sensor_53_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_53_2" args="0.578000 0.022000 0 0 0 0 base_tile_53 base_sensor_53_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_53_3" args="0.578000 0.022000 0 0 0 0 base_tile_53 base_sensor_53_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_53_4" args="0.578000 0.022000 0 0 0 0 base_tile_53 base_sensor_53_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_54_1" args="0.578000 0.022000 0 0 0 0 base_tile_54 base_sensor_54_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_54_2" args="0.578000 0.022000 0 0 0 0 base_tile_54 base_sensor_54_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_54_3" args="0.578000 0.022000 0 0 0 0 base_tile_54 base_sensor_54_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_54_4" args="0.578000 0.022000 0 0 0 0 base_tile_54 base_sensor_54_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_55_1" args="0.578000 0.022000 0 0 0 0 base_tile_55 base_sensor_55_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_55_2" args="0.578000 0.022000 0 0 0 0 base_tile_55 base_sensor_55_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_55_3" args="0.578000 0.022000 0 0 0 0 base_tile_55 base_sensor_55_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_55_4" args="0.578000 0.022000 0 0 0 0 base_tile_55 base_sensor_55_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_56_1" args="0.578000 0.022000 0 0 0 0 base_tile_56 base_sensor_56_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_56_2" args="0.578000 0.022000 0 0 0 0 base_tile_56 base_sensor_56_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_56_3" args="0.578000 0.022000 0 0 0 0 base_tile_56 base_sensor_56_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_56_4" args="0.578000 0.022000 0 0 0 0 base_tile_56 base_sensor_56_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_57_1" args="0.578000 0.022000 0 0 0 0 base_tile_57 base_sensor_57_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_57_2" args="0.578000 0.022000 0 0 0 0 base_tile_57 base_sensor_57_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_57_3" args="0.578000 0.022000 0 0 0 0 base_tile_57 base_sensor_57_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_57_4" args="0.578000 0.022000 0 0 0 0 base_tile_57 base_sensor_57_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_58_1" args="0.578000 0.022000 0 0 0 0 base_tile_58 base_sensor_58_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_58_2" args="0.578000 0.022000 0 0 0 0 base_tile_58 base_sensor_58_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_58_3" args="0.578000 0.022000 0 0 0 0 base_tile_58 base_sensor_58_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_58_4" args="0.578000 0.022000 0 0 0 0 base_tile_58 base_sensor_58_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_59_1" args="0.578000 0.022000 0 0 0 0 base_tile_59 base_sensor_59_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_59_2" args="0.578000 0.022000 0 0 0 0 base_tile_59 base_sensor_59_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_59_3" args="0.578000 0.022000 0 0 0 0 base_tile_59 base_sensor_59_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_59_4" args="0.578000 0.022000 0 0 0 0 base_tile_59 base_sensor_59_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_60_1" args="0.578000 0.022000 0 0 0 0 base_tile_60 base_sensor_60_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_60_2" args="0.578000 0.022000 0 0 0 0 base_tile_60 base_sensor_60_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_60_3" args="0.578000 0.022000 0 0 0 0 base_tile_60 base_sensor_60_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_60_4" args="0.578000 0.022000 0 0 0 0 base_tile_60 base_sensor_60_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_61_1" args="0.578000 0.022000 0 0 0 0 base_tile_61 base_sensor_61_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_61_2" args="0.578000 0.022000 0 0 0 0 base_tile_61 base_sensor_61_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_61_3" args="0.578000 0.022000 0 0 0 0 base_tile_61 base_sensor_61_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_61_4" args="0.578000 0.022000 0 0 0 0 base_tile_61 base_sensor_61_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_62_1" args="0.578000 0.022000 0 0 0 0 base_tile_62 base_sensor_62_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_62_2" args="0.578000 0.022000 0 0 0 0 base_tile_62 base_sensor_62_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_62_3" args="0.578000 0.022000 0 0 0 0 base_tile_62 base_sensor_62_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_62_4" args="0.578000 0.022000 0 0 0 0 base_tile_62 base_sensor_62_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_63_1" args="0.578000 0.022000 0 0 0 0 base_tile_63 base_sensor_63_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_63_2" args="0.578000 0.022000 0 0 0 0 base_tile_63 base_sensor_63_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_63_3" args="0.578000 0.022000 0 0 0 0 base_tile_63 base_sensor_63_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_63_4" args="0.578000 0.022000 0 0 0 0 base_tile_63 base_sensor_63_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_64_1" args="0.578000 0.022000 0 0 0 0 base_tile_64 base_sensor_64_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_64_2" args="0.578000 0.022000 0 0 0 0 base_tile_64 base_sensor_64_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_64_3" args="0.578000 0.022000 0 0 0 0 base_tile_64 base_sensor_64_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_64_4" args="0.578000 0.022000 0 0 0 0 base_tile_64 base_sensor_64_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_65_1" args="0.578000 0.022000 0 0 0 0 base_tile_65 base_sensor_65_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_65_2" args="0.578000 0.022000 0 0 0 0 base_tile_65 base_sensor_65_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_65_3" args="0.578000 0.022000 0 0 0 0 base_tile_65 base_sensor_65_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_65_4" args="0.578000 0.022000 0 0 0 0 base_tile_65 base_sensor_65_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_66_1" args="0.578000 0.022000 0 0 0 0 base_tile_66 base_sensor_66_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_66_2" args="0.578000 0.022000 0 0 0 0 base_tile_66 base_sensor_66_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_66_3" args="0.578000 0.022000 0 0 0 0 base_tile_66 base_sensor_66_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_66_4" args="0.578000 0.022000 0 0 0 0 base_tile_66 base_sensor_66_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_67_1" args="0.578000 0.022000 0 0 0 0 base_tile_67 base_sensor_67_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_67_2" args="0.578000 0.022000 0 0 0 0 base_tile_67 base_sensor_67_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_67_3" args="0.578000 0.022000 0 0 0 0 base_tile_67 base_sensor_67_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_67_4" args="0.578000 0.022000 0 0 0 0 base_tile_67 base_sensor_67_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_68_1" args="0.578000 0.022000 0 0 0 0 base_tile_68 base_sensor_68_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_68_2" args="0.578000 0.022000 0 0 0 0 base_tile_68 base_sensor_68_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_68_3" args="0.578000 0.022000 0 0 0 0 base_tile_68 base_sensor_68_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_68_4" args="0.578000 0.022000 0 0 0 0 base_tile_68 base_sensor_68_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_69_1" args="0.578000 0.022000 0 0 0 0 base_tile_69 base_sensor_69_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_69_2" args="0.578000 0.022000 0 0 0 0 base_tile_69 base_sensor_69_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_69_3" args="0.578000 0.022000 0 0 0 0 base_tile_69 base_sensor_69_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_69_4" args="0.578000 0.022000 0 0 0 0 base_tile_69 base_sensor_69_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_70_1" args="0.578000 0.022000 0 0 0 0 base_tile_70 base_sensor_70_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_70_2" args="0.578000 0.022000 0 0 0 0 base_tile_70 base_sensor_70_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_70_3" args="0.578000 0.022000 0 0 0 0 base_tile_70 base_sensor_70_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_70_4" args="0.578000 0.022000 0 0 0 0 base_tile_70 base_sensor_70_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_71_1" args="0.578000 0.022000 0 0 0 0 base_tile_71 base_sensor_71_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_71_2" args="0.578000 0.022000 0 0 0 0 base_tile_71 base_sensor_71_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_71_3" args="0.578000 0.022000 0 0 0 0 base_tile_71 base_sensor_71_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_71_4" args="0.578000 0.022000 0 0 0 0 base_tile_71 base_sensor_71_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_72_1" args="0.578000 0.024000 0 0 0 0 base_tile_72 base_sensor_72_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_72_2" args="0.578000 0.024000 0 0 0 0 base_tile_72 base_sensor_72_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_72_3" args="0.578000 0.024000 0 0 0 0 base_tile_72 base_sensor_72_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_72_4" args="0.578000 0.024000 0 0 0 0 base_tile_72 base_sensor_72_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_73_1" args="0.578000 0.022000 0 0 0 0 base_tile_73 base_sensor_73_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_73_2" args="0.578000 0.022000 0 0 0 0 base_tile_73 base_sensor_73_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_73_3" args="0.578000 0.022000 0 0 0 0 base_tile_73 base_sensor_73_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_73_4" args="0.578000 0.022000 0 0 0 0 base_tile_73 base_sensor_73_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_74_1" args="0.578000 0.022000 0 0 0 0 base_tile_74 base_sensor_74_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_74_2" args="0.578000 0.022000 0 0 0 0 base_tile_74 base_sensor_74_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_74_3" args="0.578000 0.022000 0 0 0 0 base_tile_74 base_sensor_74_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_74_4" args="0.578000 0.022000 0 0 0 0 base_tile_74 base_sensor_74_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_75_1" args="0.578000 0.022000 0 0 0 0 base_tile_75 base_sensor_75_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_75_2" args="0.578000 0.022000 0 0 0 0 base_tile_75 base_sensor_75_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_75_3" args="0.578000 0.022000 0 0 0 0 base_tile_75 base_sensor_75_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_75_4" args="0.578000 0.022000 0 0 0 0 base_tile_75 base_sensor_75_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_76_1" args="0.578000 0.022000 0 0 0 0 base_tile_76 base_sensor_76_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_76_2" args="0.578000 0.022000 0 0 0 0 base_tile_76 base_sensor_76_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_76_3" args="0.578000 0.022000 0 0 0 0 base_tile_76 base_sensor_76_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_76_4" args="0.578000 0.022000 0 0 0 0 base_tile_76 base_sensor_76_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_77_1" args="0.578000 0.022000 0 0 0 0 base_tile_77 base_sensor_77_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_77_2" args="0.578000 0.022000 0 0 0 0 base_tile_77 base_sensor_77_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_77_3" args="0.578000 0.022000 0 0 0 0 base_tile_77 base_sensor_77_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_77_4" args="0.578000 0.022000 0 0 0 0 base_tile_77 base_sensor_77_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_78_1" args="0.578000 0.022000 0 0 0 0 base_tile_78 base_sensor_78_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_78_2" args="0.578000 0.022000 0 0 0 0 base_tile_78 base_sensor_78_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_78_3" args="0.578000 0.022000 0 0 0 0 base_tile_78 base_sensor_78_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_78_4" args="0.578000 0.022000 0 0 0 0 base_tile_78 base_sensor_78_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_79_1" args="0.578000 0.022000 0 0 0 0 base_tile_79 base_sensor_79_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_79_2" args="0.578000 0.022000 0 0 0 0 base_tile_79 base_sensor_79_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_79_3" args="0.578000 0.022000 0 0 0 0 base_tile_79 base_sensor_79_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_79_4" args="0.578000 0.022000 0 0 0 0 base_tile_79 base_sensor_79_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_80_1" args="0.578000 0.022000 0 0 0 0 base_tile_80 base_sensor_80_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_80_2" args="0.578000 0.022000 0 0 0 0 base_tile_80 base_sensor_80_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_80_3" args="0.578000 0.022000 0 0 0 0 base_tile_80 base_sensor_80_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_80_4" args="0.578000 0.022000 0 0 0 0 base_tile_80 base_sensor_80_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_81_1" args="0.578000 0.022000 0 0 0 0 base_tile_81 base_sensor_81_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_81_2" args="0.578000 0.022000 0 0 0 0 base_tile_81 base_sensor_81_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_81_3" args="0.578000 0.022000 0 0 0 0 base_tile_81 base_sensor_81_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_81_4" args="0.578000 0.022000 0 0 0 0 base_tile_81 base_sensor_81_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_82_1" args="0.578000 0.022000 0 0 0 0 base_tile_82 base_sensor_82_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_82_2" args="0.578000 0.022000 0 0 0 0 base_tile_82 base_sensor_82_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_82_3" args="0.578000 0.022000 0 0 0 0 base_tile_82 base_sensor_82_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_82_4" args="0.578000 0.022000 0 0 0 0 base_tile_82 base_sensor_82_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_83_1" args="0.578000 0.022000 0 0 0 0 base_tile_83 base_sensor_83_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_83_2" args="0.578000 0.022000 0 0 0 0 base_tile_83 base_sensor_83_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_83_3" args="0.578000 0.022000 0 0 0 0 base_tile_83 base_sensor_83_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_83_4" args="0.578000 0.022000 0 0 0 0 base_tile_83 base_sensor_83_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_84_1" args="0.578000 0.022000 0 0 0 0 base_tile_84 base_sensor_84_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_84_2" args="0.578000 0.022000 0 0 0 0 base_tile_84 base_sensor_84_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_84_3" args="0.578000 0.022000 0 0 0 0 base_tile_84 base_sensor_84_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_84_4" args="0.578000 0.022000 0 0 0 0 base_tile_84 base_sensor_84_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_85_1" args="0.578000 0.022000 0 0 0 0 base_tile_85 base_sensor_85_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_85_2" args="0.578000 0.022000 0 0 0 0 base_tile_85 base_sensor_85_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_85_3" args="0.578000 0.022000 0 0 0 0 base_tile_85 base_sensor_85_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_85_4" args="0.578000 0.022000 0 0 0 0 base_tile_85 base_sensor_85_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_86_1" args="0.578000 0.022000 0 0 0 0 base_tile_86 base_sensor_86_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_86_2" args="0.578000 0.022000 0 0 0 0 base_tile_86 base_sensor_86_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_86_3" args="0.578000 0.022000 0 0 0 0 base_tile_86 base_sensor_86_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_86_4" args="0.578000 0.022000 0 0 0 0 base_tile_86 base_sensor_86_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_87_1" args="0.578000 0.022000 0 0 0 0 base_tile_87 base_sensor_87_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_87_2" args="0.578000 0.022000 0 0 0 0 base_tile_87 base_sensor_87_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_87_3" args="0.578000 0.022000 0 0 0 0 base_tile_87 base_sensor_87_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_87_4" args="0.578000 0.022000 0 0 0 0 base_tile_87 base_sensor_87_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_88_1" args="0.578000 0.022000 0 0 0 0 base_tile_88 base_sensor_88_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_88_2" args="0.578000 0.022000 0 0 0 0 base_tile_88 base_sensor_88_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_88_3" args="0.578000 0.022000 0 0 0 0 base_tile_88 base_sensor_88_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_88_4" args="0.578000 0.022000 0 0 0 0 base_tile_88 base_sensor_88_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_89_1" args="0.578000 0.022000 0 0 0 0 base_tile_89 base_sensor_89_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_89_2" args="0.578000 0.022000 0 0 0 0 base_tile_89 base_sensor_89_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_89_3" args="0.578000 0.022000 0 0 0 0 base_tile_89 base_sensor_89_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_89_4" args="0.578000 0.022000 0 0 0 0 base_tile_89 base_sensor_89_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_90_1" args="0.578000 0.022000 0 0 0 0 base_tile_90 base_sensor_90_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_90_2" args="0.578000 0.022000 0 0 0 0 base_tile_90 base_sensor_90_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_90_3" args="0.578000 0.022000 0 0 0 0 base_tile_90 base_sensor_90_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_90_4" args="0.578000 0.022000 0 0 0 0 base_tile_90 base_sensor_90_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_91_1" args="0.578000 0.029000 0 0 0 0 base_tile_91 base_sensor_91_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_91_2" args="0.578000 0.029000 0 0 0 0 base_tile_91 base_sensor_91_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_91_3" args="0.578000 0.029000 0 0 0 0 base_tile_91 base_sensor_91_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_91_4" args="0.578000 0.029000 0 0 0 0 base_tile_91 base_sensor_91_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_92_1" args="0.578000 0.022000 0 0 0 0 base_tile_92 base_sensor_92_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_92_2" args="0.578000 0.022000 0 0 0 0 base_tile_92 base_sensor_92_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_92_3" args="0.578000 0.022000 0 0 0 0 base_tile_92 base_sensor_92_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_92_4" args="0.578000 0.022000 0 0 0 0 base_tile_92 base_sensor_92_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_93_1" args="0.578000 0.022000 0 0 0 0 base_tile_93 base_sensor_93_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_93_2" args="0.578000 0.022000 0 0 0 0 base_tile_93 base_sensor_93_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_93_3" args="0.578000 0.022000 0 0 0 0 base_tile_93 base_sensor_93_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_93_4" args="0.578000 0.022000 0 0 0 0 base_tile_93 base_sensor_93_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_94_1" args="0.578000 0.022000 0 0 0 0 base_tile_94 base_sensor_94_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_94_2" args="0.578000 0.022000 0 0 0 0 base_tile_94 base_sensor_94_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_94_3" args="0.578000 0.022000 0 0 0 0 base_tile_94 base_sensor_94_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_94_4" args="0.578000 0.022000 0 0 0 0 base_tile_94 base_sensor_94_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_95_1" args="0.578000 0.022000 0 0 0 0 base_tile_95 base_sensor_95_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_95_2" args="0.578000 0.022000 0 0 0 0 base_tile_95 base_sensor_95_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_95_3" args="0.578000 0.022000 0 0 0 0 base_tile_95 base_sensor_95_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_95_4" args="0.578000 0.022000 0 0 0 0 base_tile_95 base_sensor_95_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_96_1" args="0.578000 0.022000 0 0 0 0 base_tile_96 base_sensor_96_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_96_2" args="0.578000 0.022000 0 0 0 0 base_tile_96 base_sensor_96_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_96_3" args="0.578000 0.022000 0 0 0 0 base_tile_96 base_sensor_96_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_96_4" args="0.578000 0.022000 0 0 0 0 base_tile_96 base_sensor_96_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_97_1" args="0.578000 0.022000 0 0 0 0 base_tile_97 base_sensor_97_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_97_2" args="0.578000 0.022000 0 0 0 0 base_tile_97 base_sensor_97_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_97_3" args="0.578000 0.022000 0 0 0 0 base_tile_97 base_sensor_97_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_97_4" args="0.578000 0.022000 0 0 0 0 base_tile_97 base_sensor_97_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_98_1" args="0.578000 0.022000 0 0 0 0 base_tile_98 base_sensor_98_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_98_2" args="0.578000 0.022000 0 0 0 0 base_tile_98 base_sensor_98_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_98_3" args="0.578000 0.022000 0 0 0 0 base_tile_98 base_sensor_98_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_98_4" args="0.578000 0.022000 0 0 0 0 base_tile_98 base_sensor_98_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_99_1" args="0.578000 0.022000 0 0 0 0 base_tile_99 base_sensor_99_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_99_2" args="0.578000 0.022000 0 0 0 0 base_tile_99 base_sensor_99_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_99_3" args="0.578000 0.022000 0 0 0 0 base_tile_99 base_sensor_99_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_99_4" args="0.578000 0.022000 0 0 0 0 base_tile_99 base_sensor_99_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_100_1" args="0.578000 0.022000 0 0 0 0 base_tile_100 base_sensor_100_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_100_2" args="0.578000 0.022000 0 0 0 0 base_tile_100 base_sensor_100_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_100_3" args="0.578000 0.022000 0 0 0 0 base_tile_100 base_sensor_100_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_100_4" args="0.578000 0.022000 0 0 0 0 base_tile_100 base_sensor_100_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_101_1" args="0.578000 0.022000 0 0 0 0 base_tile_101 base_sensor_101_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_101_2" args="0.578000 0.022000 0 0 0 0 base_tile_101 base_sensor_101_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_101_3" args="0.578000 0.022000 0 0 0 0 base_tile_101 base_sensor_101_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_101_4" args="0.578000 0.022000 0 0 0 0 base_tile_101 base_sensor_101_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_102_1" args="0.578000 0.022000 0 0 0 0 base_tile_102 base_sensor_102_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_102_2" args="0.578000 0.022000 0 0 0 0 base_tile_102 base_sensor_102_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_102_3" args="0.578000 0.022000 0 0 0 0 base_tile_102 base_sensor_102_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_102_4" args="0.578000 0.022000 0 0 0 0 base_tile_102 base_sensor_102_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_103_1" args="0.578000 0.022000 0 0 0 0 base_tile_103 base_sensor_103_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_103_2" args="0.578000 0.022000 0 0 0 0 base_tile_103 base_sensor_103_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_103_3" args="0.578000 0.022000 0 0 0 0 base_tile_103 base_sensor_103_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_103_4" args="0.578000 0.022000 0 0 0 0 base_tile_103 base_sensor_103_4 10" /> 
+<node pkg="tf" type="static_transform_publisher" name="base_sensor_104_1" args="0.578000 0.022000 0 0 0 0 base_tile_104 base_sensor_104_1 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_104_2" args="0.578000 0.022000 0 0 0 0 base_tile_104 base_sensor_104_2 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_104_3" args="0.578000 0.022000 0 0 0 0 base_tile_104 base_sensor_104_3 10" />
+ <node pkg="tf" type="static_transform_publisher" name="base_sensor_104_4" args="0.578000 0.022000 0 0 0 0 base_tile_104 base_sensor_104_4 10" /> 
+</launch>
